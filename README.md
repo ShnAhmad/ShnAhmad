@@ -1,37 +1,152 @@
-## 💫 About Me:
+# 👋 Hi, I'm Zeeshan Ahmad
 
-💻 Passionate Software Engineer with hands-on experience in building modern and scalable web applications using React, Next.js, and Node.js.<br>
-⚛️ Skilled in developing dynamic frontends with React and Next.js, and robust backends powered by Node.js.<br>
-📱 Experienced in React Native and Flutter, crafting cross-platform mobile apps focused on performance and design consistency.<br>
-🖥️ Exploring Electron to build desktop applications that extend web experiences across platforms.<br>
-📚 A lifelong learner, always adapting to new technologies and frameworks to stay ahead in the fast-paced tech landscape.<br>
-🚀 GitHub is my creative playground — where ideas evolve into impactful web, mobile, and desktop projects.<br>
-💡 A problem solver at heart, passionate about designing and delivering innovative solutions that make a difference.<br>
-✨ Explore my repositories, check out my work, and follow my journey as a full-stack web and mobile app developer.<br>
-Let’s connect, collaborate, and build something extraordinary together! 🌟<br>
-Thanks for stopping by! Happy coding! 🚀💻
+### 💻 Software Engineer · Full-Stack Developer · AI/LLM Integration
 
-- 📫 How to reach me **shanahmad.dev@gmail.com**
+**Gold Medalist Software Engineer** with **2.5+ years of professional experience** building modern web, mobile, and desktop applications.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shanahmad2) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-ahmad2) 
- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22929368/zeeshan-ahmad) 
+I specialize in **React, Next.js, TypeScript, Node.js, and AI/LLM integration**, with experience designing scalable frontends, backend APIs, real-time applications, and cross-platform products.
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShnAhmad&theme=ocean_dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShnAhmad&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShnAhmad&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+I enjoy turning complex ideas into **clean, scalable, and production-ready software**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShnAhmad&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+* 🎓 **BSc Software Engineering — Gold Medalist**
+* 💼 **2.5+ years of professional software engineering experience**
+* ⚛️ Strong focus on **React.js, Next.js & TypeScript**
+* 🤖 Building **AI-powered applications and LLM integrations**
+* 🔧 Backend development with **Node.js, REST APIs & GraphQL**
+* 📱 Cross-platform development with **React Native & Flutter**
+* 🖥️ Desktop application development with **Electron.js**
+* 🗄️ Experienced with **PostgreSQL, Supabase, MongoDB & SQLite**
+* 🏗️ Interested in **Software Architecture, System Design & Scalable Applications**
+* ☁️ Exploring **Cloud, DevOps & AI Engineering**
+* 🌍 Open to collaborating on innovative products and engineering challenges
+
+---
+
+# 🛠️ Tech Stack
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,mui" />
+</p>
+
+### 🔧 Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### 🤖 AI & LLM Engineering
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+**AI Capabilities**
+
+`LLM Integration` · `AI Assistants` · `Conversational AI` · `RAG` · `AI Agents` · `Tool Calling` · `Streaming` · `Prompt Engineering` · `AI Recommendations` · `Content Generation`
+
+### 📱 Mobile & Desktop
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,electron" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite,firebase" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+Building scalable applications with:
+
+* React & Next.js
+* TypeScript
+* Node.js
+* REST & GraphQL APIs
+* PostgreSQL & Supabase
+* Real-time applications
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Engineering
+
+Building and integrating:
+
+* LLM-powered applications
+* AI assistants
+* RAG systems
+* AI agents
+* Tool/function calling
+* Streaming AI responses
+* AI recommendations
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+* 🤖 **AI Engineering & LLM Applications**
+* 🧠 **AI Agents & Agentic Workflows**
+* 🔗 **RAG & Knowledge-Based AI**
+* 🏗️ **System Design & Software Architecture**
+* ☁️ **Cloud & DevOps**
+* ⚡ **Advanced React & Next.js**
+* 🔐 **Scalable Backend Systems**
+* 🔄 **Real-Time & Distributed Applications**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:shanahmad.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shanahmad.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/zeeshan-ahmad2">
+    <img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-three-flame-40.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/22929368/zeeshan-ahmad">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Building software that solves real problems.</b>
+</p>
+
+<p align="center">
+  Thanks for stopping by! 🚀
+</p>
